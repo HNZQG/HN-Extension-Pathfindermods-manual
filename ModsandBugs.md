@@ -34,10 +34,14 @@ https://github.com/oxygencraft/DebugMod
 ## 下面介绍目前有的bug
 
 *0dtk已知的bug*
+
 1.调用IRC回答有关的action需要调用0dtk-global.xml 这个xml只有全局安装时才能生效 放在<拓展目录>/Locales下的此xml无法读取
+
 2.9418破解器会出框(字体问题)
 
 *Pathfinder已有的bug*
+
 在DHS上加载任务完成后，任务无法消除
 接收其他任务或再次点击完成均会报错。
+
 解决方案请参考**SR.OS OverLapping**
