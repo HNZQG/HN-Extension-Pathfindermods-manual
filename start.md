@@ -4,20 +4,20 @@ https://github.com/Arkhist/Hacknet-Pathfinder
 
 你可以在浏览器打开上述网址，下载并安装。
 
-你也可以选择在我们的Q群940056115中下载群文件的PathfinderInstaller.exe运行安装
+你也可以选择在我们的Q群*940056115*中下载群文件的PathfinderInstaller.exe运行安装
 
 选择文件夹，请选择hacknet所在目录
 
 ## 自动安装
 
 如果您使用的是Windows，建议您使用安装程序。
-只要运行安装程序，它会自动找到你的Hacknet文件夹，然后点击安装。从Steam启动Hacknet将会启动Pathfinder(在Windows上)！
+只要运行安装程序，它会自动找到你的Hacknet文件夹，然后点击安装。从Steam启动Hacknet将会启动带有Pathfinder的版本，HacknetOld.exe是原版的hacknet(在Windows上)！
 
-如果您决定使用py来installer(或者你只是在Linux上并且必须使用它)记住它需要在你运行它之前安装python3和tk。
+如果您决定使用py来installer(或者你在使用Linux，必须使用它)记住它需要在你运行它之前安装python3和tk。
 
-如果你在Linux上，一旦安装完成，确保自己+x StartPathfinder.sh。
+如果你使用Linux，一旦安装完成，确保自己输入+x StartPathfinder.sh。
 
-要卸载，只需重新打开安装程序，然后单击卸载。这将清除安装程序所做的所有更改，同时也将删除你所有的插件。
+要卸载，只需重新打开安装程序，然后单击卸载。这将清除安装程序所做的所有更改，同时也将删除你的插件文件夹(全局安装的mod文件)。
 
 ## 手动安装
 
