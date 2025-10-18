@@ -4,9 +4,7 @@ https://github.com/Arkhist/Hacknet-Pathfinder
 
 你可以在浏览器打开上述网址，下载并安装。
 
-你也可以选择在我们的Q群940056115中
-
-下载群文件的PathfinderInstaller.exe运行安装
+你也可以选择在我们的Q群940056115中下载群文件的PathfinderInstaller.exe运行安装
 
 选择文件夹，请选择hacknet所在目录
 
@@ -32,10 +30,11 @@ https://github.com/Arkhist/Hacknet-Pathfinder
 在Windows上运行HacknetPathfinder.exe或在Linux上运行StartPathfinder.sh来启动Pathfinder。
 
 目前使用Pathfinder的较早扩展有 
-**WnCry** 和 **小A** 的 `Tempest` 以及 **ZQG** 的 `SR.OS Overlapping` 可以适当的学习借鉴
+**WnCry** 和 **小A** 的 `Tempest` 以及 **ZQG** 的 `SR.OS Overlapping` 
+可以学习和借鉴一下
 
 它的主要好处在于它可以比原版更精确的检测到bug，顾名思义，它对扩展的判定更严。这有利于扩展作者去发现bug，解决bug。
-(有时可能会导致红温)
+(*有时可能会导致红温*)
 
 其他好处在此处不进行列举。
 
