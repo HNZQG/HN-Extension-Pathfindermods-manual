@@ -1,13 +1,14 @@
 # HN-Extension-Pathfindermods-manual
 关于使用MOD来制作Hacknet扩展的手册
-[Pathfinder](https://github.com/Arkhist/Hacknet-Pathfinder)
-你必须安装Pathfinder
+你必须安装[Pathfinder](https://github.com/Arkhist/Hacknet-Pathfinder)才能正常游玩拥有mod的扩展
+
 
 ## 前情提要
 
-本手册强烈推荐在已有一定原版扩展制作基础上进行学习，本手册需要了解 扩展制作手册 的有关内容。
-本手册对于mod的介绍依据于Github上的项目。
-因此本手册的部分内容可能会因MOD的更新而不适用，此手册特别标明介绍的MOD的目前版本。
-本手册的制作是一个长期的过程，如有不对之处，望指出，便于改正。谢谢！
+-本手册强烈推荐在已有一定原版扩展制作基础上进行学习
+-本手册需要了解 扩展制作手册 的有关内容。
+-本手册对于mod的介绍依据于Github上的项目。
+-本手册的部分内容可能会因MOD的更新而不适用，所以此手册特别标明介绍的MOD的目前版本。
+-本手册的制作是一个长期的过程，如有不对之处，望指出，便于改正。谢谢！
 
 作者 **ZQG** 和 **WnCry**
