@@ -30,7 +30,7 @@ https://github.com/Arkhist/Hacknet-Pathfinder
 在Windows上运行HacknetPathfinder.exe或在Linux上运行StartPathfinder.sh来启动Pathfinder。
 
 目前使用Pathfinder的较早扩展有 
-**WnCry** 和 **小A** 的 `Tempest` 以及 **ZQG** 的 `SR.OS Overlapping` 
+**WnCry** 和 **小A** 的 `Tempest` 以及 **ZQG** 的 `SR.OS OverLapping` 
 可以学习和借鉴一下
 
 它的主要好处在于它可以比原版更精确的检测到bug，顾名思义，它对扩展的判定更严。这有利于扩展作者去发现bug，解决bug。
