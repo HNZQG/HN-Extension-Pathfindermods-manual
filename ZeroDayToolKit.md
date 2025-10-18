@@ -1,7 +1,8 @@
 ## 对于ZeroDayToolKit制作扩展的较详细介绍
 **作者pr_d(discord@pr_d)**
 
-##它增加的新命令:
+## 它增加的新命令:
+
 alias <cmd> <expression...>/unalias <cmd>为指定命令设置别名 可以使用$0~$9以提供参数
 比如 alias 123 rm$* 效果为当执行123命令时视为执行命令rm *
 
