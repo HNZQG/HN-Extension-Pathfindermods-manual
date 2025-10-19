@@ -8,7 +8,7 @@ alias <cmd> <expression...>/unalias <cmd>为指定命令设置别名 可以使�
 
 btoa <file> / atob <file>将文件从Base64编码解密或者把文件加密为Base64编码
 
-binary <-e/-d> <file>将文件加密为二进制文件或者从二进制文件解密
+binary < -e/-d > <file>将文件加密为二进制文件或者从二进制文件解密
 
 cp <file> <path>将文件复制到另一个文件夹
 
